@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1592821654 source:c:\users\yoyol\desktop\07160865\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<GL/glut.h>
+	"CMP3_MCI.h"
+	"glm.h"
+
+1426320928 c:\users\yoyol\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\yoyol\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1591975798 c:\users\yoyol\desktop\07160865\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+924330300 c:\users\yoyol\desktop\07160865\glm.h
+	<GL/glut.h>
+
+924330300 source:c:\users\yoyol\desktop\07160865\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
